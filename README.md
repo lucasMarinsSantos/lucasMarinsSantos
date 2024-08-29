@@ -1,10 +1,6 @@
-<br clear="both">
+
 
 <h2 align="center">🌐 Coding the future, line by line 🌐</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasMarinsSantos&radius=0&theme=arctic&area=true&order=5&custom_title=Commit's&bg_color=0a1521&hide_border=true&area_color=00ffff&line=00ffff&point=00ff95&color=ffffff&title_color=ffffff" height="200" alt="activity-graph graph"  />
