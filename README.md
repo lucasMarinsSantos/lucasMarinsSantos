@@ -13,7 +13,7 @@
 
 ###
 
-<h6 align="left">Work in progress:</h6>
+<h6 align="center">Work in progress:</h6>
 
 ###
 
