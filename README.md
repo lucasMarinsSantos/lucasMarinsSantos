@@ -11,7 +11,7 @@
 <br></br>
 <h6 align="center">Work in progress:</h6>
 <br></br>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
@@ -23,10 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
 </div>
 <br></br>
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/lucasMarinsSantos/count.svg?"  />
 </div>
 
-###
+
